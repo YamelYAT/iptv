@@ -1,0 +1,371 @@
+#EXTM3U  url-tvg="http://195.158.222.115/epg.xml" refresh="3600" m3uautoload="1" deinterlace="1"
+#EXTINF:-1 group-title="Общероссийские",Домашний 
+http://195.158.222.115:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Звезда 
+http://195.158.222.115:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Мир 
+http://195.158.222.115:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",НТВ 
+http://195.158.222.115:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",ОТР 
+http://195.158.222.115:8000/play/9/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Первый канал 
+http://195.158.222.115:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Пятница 
+http://195.158.222.115:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Пятый канал 
+http://195.158.222.115:8000/play/5/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",РТР Планета
+http://195.158.222.115:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",РенТВ 
+http://195.158.222.115:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 1 
+http://195.158.222.115:8000/play/2/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 24 
+http://195.158.222.115:8000/play/7/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия К
+http://195.158.222.115:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",СТС 
+http://195.158.222.115:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Спас 
+http://195.158.222.115:8000/play/12/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТВ Центр
+http://195.158.222.115:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТВ Центр +2
+http://195.158.222.115:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТВ-3 
+http://195.158.222.115:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ 
+http://195.158.222.115:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ  +2
+http://195.158.222.115:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Extreme Sports 
+http://195.158.222.115:8000/play/92/index.m3u8
+#EXTINF:-1 group-title="Спортивные",MMA-TV.com
+http://195.158.222.115:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Viasat Sport 
+http://195.158.222.115:8000/play/93/index.m3u8
+#EXTINF:-1 group-title="Спортивные",БОКС ТВ 
+http://195.158.222.115:8000/play/89/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Конный мир (HD) 
+http://195.158.222.115:8000/play/152/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ!
+http://195.158.222.115:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! АРЕНА 
+http://195.158.222.115:8000/play/83/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! БОЕЦ 
+http://195.158.222.115:8000/play/84/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! БОЕЦ  HD
+http://195.158.222.115:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ИГРА 
+http://195.158.222.115:8000/play/85/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ПРЕМЬЕР HD 
+http://195.158.222.115:8000/play/162/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! СТРАНА 
+http://195.158.222.115:8000/play/86/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 1 
+http://195.158.222.115:8000/play/80/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 1 (HD) 
+http://195.158.222.115:8000/play/157/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 2 
+http://195.158.222.115:8000/play/81/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 2 (HD) 
+http://195.158.222.115:8000/play/158/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 3 
+http://195.158.222.115:8000/play/82/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 3 (HD) 
+http://195.158.222.115:8000/play/159/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! ПРЕМЬЕР 
+http://195.158.222.115:8000/play/87/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Мир Баскетбола 
+http://195.158.222.115:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Моторспорт ТВ
+http://195.158.222.115:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт
+http://195.158.222.115:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Телеканал КХЛ 
+http://195.158.222.115:8000/play/90/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Точка отрыва 
+http://195.158.222.115:8000/play/95/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",2x2 
+http://195.158.222.115:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",8 канал 
+http://195.158.222.115:8000/play/29/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",E TV
+http://195.158.222.115:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",SHOT TV
+http://195.158.222.115:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Women's Magazine
+http://195.158.222.115:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",World Fashion 
+http://195.158.222.115:8000/play/206/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",БОБЁР 
+http://195.158.222.115:8000/play/186/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Время: далекое и близкое 
+http://195.158.222.115:8000/play/188/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Диалоги о рыбалке 
+http://195.158.222.115:8000/play/149/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ЖАРА 
+http://195.158.222.115:8000/play/113/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ЖИВИ! 
+http://195.158.222.115:8000/play/194/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ 
+http://195.158.222.115:8000/play/191/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Кухня ТВ 
+http://195.158.222.115:8000/play/207/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Мама 
+http://195.158.222.115:8000/play/195/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Москва Доверие 
+http://195.158.222.115:8000/play/203/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",НТВ Право 
+http://195.158.222.115:8000/play/79/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",НТВ Стиль 
+http://195.158.222.115:8000/play/196/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ностальгия 
+http://195.158.222.115:8000/play/193/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Поехали! 
+http://195.158.222.115:8000/play/146/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС Love 
+http://195.158.222.115:8000/play/23/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Сарафан 
+http://195.158.222.115:8000/play/199/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 
+http://195.158.222.115:8000/play/22/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Танцуй
+http://195.158.222.115:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Телеканал 360 
+http://195.158.222.115:8000/play/198/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Телекафе 
+http://195.158.222.115:8000/play/189/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Усадьба ТВ
+http://195.158.222.115:8000/play/187/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Че 
+http://195.158.222.115:8000/play/21/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю 
+http://195.158.222.115:8000/play/27/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",.black
+http://195.158.222.115:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",.red
+http://195.158.222.115:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",.sci-fi
+http://195.158.222.115:8000/play/56/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",A1 
+http://195.158.222.115:8000/play/61/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",A2 
+http://195.158.222.115:8000/play/62/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Hit 
+http://195.158.222.115:8000/play/33/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Premium 
+http://195.158.222.115:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Dorama 
+http://195.158.222.115:8000/play/139/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",FlixSnip
+http://195.158.222.115:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Hollywood 
+http://195.158.222.115:8000/play/60/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Hollywood HD 
+http://195.158.222.115:8000/play/166/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Kinoliving
+http://195.158.222.115:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",START Air
+http://195.158.222.115:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",START World
+http://195.158.222.115:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",TV1000 
+http://195.158.222.115:8000/play/35/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",TV1000 Action 
+http://195.158.222.115:8000/play/36/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",TV1000 Русское кино 
+http://195.158.222.115:8000/play/37/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",ViP Comedy
+http://195.158.222.115:8000/play/40/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",ViP Megahit
+http://195.158.222.115:8000/play/38/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",ViP Premiere
+http://195.158.222.115:8000/play/39/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",ZeeTV 
+http://195.158.222.115:8000/play/50/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",ДОМ КИНО 
+http://195.158.222.115:8000/play/65/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",ЕвроКино 
+http://195.158.222.115:8000/play/63/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",ИНДИЙСКОЕ КИНО 
+http://195.158.222.115:8000/play/49/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Иллюзион+ 
+http://195.158.222.115:8000/play/71/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",КИНО ТВ 
+http://195.158.222.115:8000/play/41/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",КИНОКОМЕДИЯ 
+http://195.158.222.115:8000/play/46/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",КИНОМИКС 
+http://195.158.222.115:8000/play/47/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",КИНОСВИДАНИЕ 
+http://195.158.222.115:8000/play/48/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",КИНОСЕМЬЯ 
+http://195.158.222.115:8000/play/45/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",КИНОСЕРИЯ 
+http://195.158.222.115:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",КИНОУЖАС 
+http://195.158.222.115:8000/play/52/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",КИНОХИТ 
+http://195.158.222.115:8000/play/44/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кинеко
+http://195.158.222.115:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кинеко HD 
+http://195.158.222.115:8000/play/170/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Комедия
+http://195.158.222.115:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Любимое Кино 
+http://195.158.222.115:8000/play/68/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",МУЖСКОЕ КИНО 
+http://195.158.222.115:8000/play/42/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Мир сериала 
+http://195.158.222.115:8000/play/75/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Мосфильм. Золотая Коллекция
+http://195.158.222.115:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",НАШЕ НОВОЕ КИНО 
+http://195.158.222.115:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",НТВ Сериал 
+http://195.158.222.115:8000/play/76/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",НТВ Хит 
+http://195.158.222.115:8000/play/77/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Настоящее страшное телевидение
+http://195.158.222.115:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",ПОБЕДА
+http://195.158.222.115:8000/play/32/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",РОДНОЕ КИНО 
+http://195.158.222.115:8000/play/67/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский Иллюзион 
+http://195.158.222.115:8000/play/70/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский бестселлер 
+http://195.158.222.115:8000/play/73/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский детектив 
+http://195.158.222.115:8000/play/74/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский роман 
+http://195.158.222.115:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Сапфир
+http://195.158.222.115:8000/play/59/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Суббота!
+http://195.158.222.115:8000/play/25/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Телеканал FAN
+http://195.158.222.115:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="Познавательные",365 дней ТВ 
+http://195.158.222.115:8000/play/190/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Big Planet
+http://195.158.222.115:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Terra
+http://195.158.222.115:8000/play/141/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel and Adventure 
+http://195.158.222.115:8000/play/145/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explore 
+http://195.158.222.115:8000/play/96/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History 
+http://195.158.222.115:8000/play/97/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature 
+http://195.158.222.115:8000/play/144/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature HD
+http://195.158.222.115:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Познавательные",АВТО 24 
+http://195.158.222.115:8000/play/100/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто Плюс 
+http://195.158.222.115:8000/play/101/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикий 
+http://195.158.222.115:8000/play/148/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Доктор 
+http://195.158.222.115:8000/play/200/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Домашние животные 
+http://195.158.222.115:8000/play/150/index.m3u8
+#EXTINF:-1 group-title="Познавательные",История 
+http://195.158.222.115:8000/play/102/index.m3u8
+#EXTINF:-1 group-title="Познавательные",КТО ЕСТЬ КТО 
+http://195.158.222.115:8000/play/192/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета 
+http://195.158.222.115:8000/play/147/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя стихия
+http://195.158.222.115:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука 
+http://195.158.222.115:8000/play/104/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
+http://195.158.222.115:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Тайны Галактики
+http://195.158.222.115:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Телеканал Да Винчи 
+http://195.158.222.115:8000/play/127/index.m3u8
+#EXTINF:-1 group-title="Информационные",RT
+http://195.158.222.115:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Информационные",Известия 
+http://195.158.222.115:8000/play/31/index.m3u8
+#EXTINF:-1 group-title="Информационные",МИР 24 
+http://195.158.222.115:8000/play/28/index.m3u8
+#EXTINF:-1 group-title="Информационные",Москва 24 
+http://195.158.222.115:8000/play/204/index.m3u8
+#EXTINF:-1 group-title="Информационные",РБК-ТВ
+http://195.158.222.115:8000/play/30/index.m3u8
+#EXTINF:-1 group-title="Детские",Ani 
+http://195.158.222.115:8000/play/137/index.m3u8
+#EXTINF:-1 group-title="Детские",CTC Kids
+http://195.158.222.115:8000/play/184/index.m3u8
+#EXTINF:-1 group-title="Детские",Duck TV
+http://195.158.222.115:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Детские",Gulli Girl 
+http://195.158.222.115:8000/play/136/index.m3u8
+#EXTINF:-1 group-title="Детские",TiJi 
+http://195.158.222.115:8000/play/135/index.m3u8
+#EXTINF:-1 group-title="Детские",В гостях у сказки 
+http://195.158.222.115:8000/play/125/index.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир
+http://195.158.222.115:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Детские",Карусель 
+http://195.158.222.115:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="Детские",Мульт 
+http://195.158.222.115:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия 
+http://195.158.222.115:8000/play/128/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультимузыка 
+http://195.158.222.115:8000/play/138/index.m3u8
+#EXTINF:-1 group-title="Детские",О! 
+http://195.158.222.115:8000/play/129/index.m3u8
+#EXTINF:-1 group-title="Детские",Радость моя 
+http://195.158.222.115:8000/play/126/index.m3u8
+#EXTINF:-1 group-title="Детские",Солнце
+http://195.158.222.115:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Детские",СуперГерои
+http://195.158.222.115:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Детские",Уникум 
+http://195.158.222.115:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",BRIDGE Русский Хит 
+http://195.158.222.115:8000/play/114/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge
+http://195.158.222.115:8000/play/115/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",MCM Top 
+http://195.158.222.115:8000/play/121/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Mezzo Live HD 
+http://195.158.222.115:8000/play/173/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU.TV 
+http://195.158.222.115:8000/play/109/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Европа Плюс ТВ 
+http://195.158.222.115:8000/play/108/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ля-минор ТВ 
+http://195.158.222.115:8000/play/112/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка Первого 
+http://195.158.222.115:8000/play/111/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТНТ MUSIC 
+http://195.158.222.115:8000/play/110/index.m3u8
+#EXTINF:-1 group-title="Региональные",БелРос 
+http://195.158.222.115:8000/play/202/index.m3u8
+#EXTINF:-1 group-title="Региональные",Луганск 24
+http://195.158.222.115:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Региональные",Оплот
+http://195.158.222.115:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Региональные",Продвижение 
+http://195.158.222.115:8000/play/78/index.m3u8
+#EXTINF:-1 group-title="Региональные",Санкт-Петербург 
+http://195.158.222.115:8000/play/205/index.m3u8
+#EXTINF:-1 group-title="Региональные",ТНВ Планета
+http://195.158.222.115:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Радио",Радио Шансон
+http://195.158.222.115:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Радио",Юмор FM
+http://195.158.222.115:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Телемагазины",Shop&Show
+http://195.158.222.115:8000/play/1001/index.m3u8
